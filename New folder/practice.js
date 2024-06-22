@@ -1,4 +1,4 @@
-{
+let array = {
     "English": {
         "Lesson1": {
             "Lesson_heading": {
